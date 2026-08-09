@@ -77,5 +77,5 @@ To set up Bike Buddy locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/SubhamAdhikari20/Bike-Buddy.git
+    git clone https://github.com/riseshrestha07/Bike-Buddy.git
     ```
